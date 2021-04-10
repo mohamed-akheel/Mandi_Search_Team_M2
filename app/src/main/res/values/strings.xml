@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Mandi Search - TEAM M2</string>
+    <string name="a1">logo</string>
+    <string name="a2">The right place to find the right value for the production</string>
+    <string name="a3">Enter your location</string>
+    <string name="a4">ENTER HERE</string>
+    <string name="a5">Search using GPS</string>
+    <string name="a6">SUBMIT</string>
+    <string name="a7">Search using LOCATION</string>
+    <string name="a8">(Nearest first)</string>
+    <string name="a9">Search using PRICE</string>
+    <string name="a10">(High offering first)</string>
+    <string name="a11">Search using ACCEPTANCE</string>
+    <string name="a12">(Ready to accept first)</string>
+    <string name="a13">SEARCH</string>
+    <string name="a14">ABOUT US</string>
+    <string name="a15">Rice Mandi - The Online Rice Store</string>
+    <string name="a16">Address: Sankar Illam, 15,, 33rd street, TVS Ave Main Rd, Kumaran Nagar, Anna Nagar West Extension, Chennai, Tamil Nadu 600101</string>
+    <string name="a17">Phone: 093458 00800</string>
+    <string name="a18">Praghadheashwar Arisi Mandi</string>
+    <string name="a19">Address: 10/15, Thiruvalluvar Rd, Thiruvalluvar Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600037</string>
+    <string name="a20">Phone: 099629 22353</string>
+    <string name="a21">Lingam Rice Mandi</string>
+    <string name="a22">Address: No.30, Anna Nedumpathai, Anna Nedum Pathai, Veerapandi Nagar, Choolaimedu, Chennai, Tamil Nadu 600094</string>
+    <string name="a23">Phone: 09884499452</string>
+    <string name="a24">DEVELOPED BY:</string>
+    <string name="a25">MOHAMED AKHEEL.M</string>
+    <string name="a26">akheel1mohamed@gmail.com</string>
+    <string name="a27">MOHAMED IBRAHIM</string>
+    <string name="a28">ibu6301.md@gmail.com</string>
+    <string name="a29">Rs.780/mandi</string>
+    <string name="a30">Rs.850/mandi</string>
+    <string name="a31">Rs.920/mandi</string>
+    <string name="a32">CROP:</string>
+    <string name="a33">Type here</string>
+
+</resources>
